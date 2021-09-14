@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#myCanvas{
+    width:98vw;
+    height:98vh;
+    border:1px solid #000000;
+}
